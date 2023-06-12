@@ -13,7 +13,7 @@ git clone https://github.com/dzenifera16/E-store.git
 2. Pāriet uz projekta direktoriju:
 
 ```shell
-cd EVeikals
+cd E-store
 ```
 
 3. Instalējiet nepieciešamās atkarības, izmantojot npm:
